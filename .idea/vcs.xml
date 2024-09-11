@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BLE_Application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Cell_App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HammerSystems" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/My-Notes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ntiteam" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PaymentApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VKApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/codelab-android-dagger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/codelab-android-dagger2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compose-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/manager-app" vcs="Git" />
+  </component>
+</project>
